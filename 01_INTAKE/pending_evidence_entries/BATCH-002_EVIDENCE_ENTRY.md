@@ -1,0 +1,24 @@
+# BATCH-002 — EVIDENCE ENTRY
+
+- **Batch ID:** BATCH-002
+- **Short Topic:** public compiler review
+- **Source Type:** chat summary / extracted evidence
+- **Primary Domain:** compiler semantics and contract drift
+- **Disposition:** ACCEPT_AS_EVIDENCE
+- **Evidence Strength:** high for compiler concerns, medium for broader semantic drift
+- **Canonical Status:** not canon
+- **Main Signals:**
+  - public compiler is already a real deterministic structural engine
+  - likely weakness in priority consistency and governance propagation
+  - hierarchy may be too positional relative to intended stronger semantics
+  - canon should be locked before implementation patching
+  - public/private compiler parity remains unverified
+- **Roadmap Tags:**
+  - PHASE_1_CORE_ALIGNMENT
+  - PHASE_2_COMPILER_IMPACT
+  - PHASE_3_DOCUMENTATION_IMPACT
+  - PHASE_4_SKILL_ALIGNMENT
+  - PHASE_5_PRD_AND_STAGING
+- **Contradiction Watch:** medium
+- **Duplicate Pressure:** medium-high
+- **Next Decision Target:** compiler contract lock

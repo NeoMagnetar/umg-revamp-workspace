@@ -1,0 +1,21 @@
+# BATCH-068 EVIDENCE ENTRY
+
+- **Batch ID:** BATCH-068
+- **Topic:** WINA correction, selective activation, and UMG runtime optimization
+- **Source Form:** summarized chat intake
+- **Disposition:** ACCEPT_AS_EVIDENCE
+- **Primary Domain:** runtime optimization and selective relevance
+- **Key Signals:**
+  - WINA corrected to Weight Informed Neuron Activation for Accelerating Large Language Model Inference
+  - “efficiency via modular relevance” emerged as the main UMG-adjacent phrase
+  - potential local/offline/lower-power agent benefits were discussed
+  - strong boundary preserved between neuron-level sparsity and MOLT-level orchestration
+  - no direct implementation or benchmark was established
+- **Likely Downstream Targets:**
+  - compiler research notes
+  - runtime optimization workstream
+  - documentation corrections
+  - constrained-device agent planning
+- **Contradiction Watch:** MEDIUM
+- **Duplicate Pressure:** YES
+- **Export Candidate:** selected wording only, not integrated doctrine

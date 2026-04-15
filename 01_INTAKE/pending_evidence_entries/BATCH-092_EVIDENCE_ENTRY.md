@@ -1,0 +1,33 @@
+# BATCH-092 Evidence Entry
+
+- Batch ID: BATCH-092
+- Short topic: Envoy Parallel Correction Model
+- Source type: derived extraction / handoff note
+- Review status: REVIEWED
+- Disposition: ACCEPT_AS_EVIDENCE
+- Primary domain: multi-agent semantics
+- Roadmap tags:
+  - PHASE_1_CORE_ALIGNMENT
+  - PHASE_2_COMPILER_IMPACT
+  - PHASE_3_DOCUMENTATION_IMPACT
+  - PHASE_4_SKILL_ALIGNMENT
+  - PHASE_5_PRD_AND_STAGING
+- Core signal:
+  - "envoys" proposed as plural term for multiple agents in one shared mission / stack context
+  - blocks and sleeves each described as potentially 1:1 with an agent
+  - stacks described as inherently multi-agent
+  - "anti-snap" mutual correction proposed for tandem envoys
+  - MOLT Map and output envelope treated as structured spec surfaces
+- Contradiction watch: MEDIUM
+- Duplicate pressure: YES
+- Downstream targets:
+  - semantic alignment decisions
+  - compiler audit / task spec
+  - core definitions
+  - skill alignment matrix
+  - PRD feature notes
+- Caution:
+  - source is not a raw transcript
+  - some high-value candidates appear exploratory or assistant-shaped
+- Next decision target:
+  - clarify envoy grouping semantics vs naming-only semantics

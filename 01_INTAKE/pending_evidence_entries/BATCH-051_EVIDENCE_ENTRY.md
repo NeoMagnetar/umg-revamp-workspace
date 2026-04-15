@@ -1,0 +1,23 @@
+# BATCH-051 — EVIDENCE ENTRY
+
+- **Batch ID:** BATCH-051
+- **Title:** Gift-to-sleeve authoring and governance/mythos split
+- **Source type:** Derived summary / handoff extraction
+- **Primary domain:** Sleeve authoring workflow
+- **Disposition:** ACCEPT_AS_EVIDENCE
+- **Canon status:** Not canon
+- **Key signals:**
+  - symbolic input -> sleeve -> NeoStacks -> NeoBlocks -> MOLT path
+  - governance anchor vs sleeve-local mythos distinction
+  - Fractal Listener sleeve as authored identity artifact
+  - two fully expanded stacks with worked MOLT fields
+  - QR/output packaging separated from cognition
+- **Likely downstream targets:**
+  - sleeve docs
+  - compiler examples
+  - blocks/MOLT documentation
+  - neostack/neoblock docs
+  - skill workflow design
+- **Duplicate pressure:** Medium
+- **Contradiction watch:** Medium
+- **Next merge candidate:** adjacent sleeve-construction / activation-protocol / runtime-spec batches

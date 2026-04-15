@@ -1,0 +1,21 @@
+# BATCH-004 — Evidence Entry
+- **Batch ID:** BATCH-004
+- **Title:** sleeve simplification + runtime governance intake
+- **Disposition:** ACCEPT_AS_EVIDENCE
+- **Primary Domain:** sleeve runtime governance
+- **Source Kind:** chat extraction with attached UMG artifact references
+- **Core Signals:**
+  - sleeve simplification as an authoring workflow
+  - formal runtime contracts and bundle policies
+  - governance-anchor enforcement and bounded self-improvement
+  - MODE vs BP_MODE separation
+- **Roadmap Tags:**
+  - PHASE_1_CORE_ALIGNMENT
+  - PHASE_2_COMPILER_IMPACT
+  - PHASE_3_DOCUMENTATION_IMPACT
+  - PHASE_4_SKILL_ALIGNMENT
+  - PHASE_5_PRD_AND_STAGING
+- **Duplicate Pressure:** high with existing sleeve/runtime/governance material
+- **Contradiction Watch:** medium
+- **Export Status:** Stage 1 pack exported
+- **Next Decision Target:** simplified sleeve template vs full activation contract

@@ -1,0 +1,23 @@
+# BATCH-012 — Evidence Entry
+
+- **Batch ID:** BATCH-012
+- **Short Topic:** FOUNDATION_RUNTIME_BRIDGE
+- **Disposition:** EXPORT_CANDIDATE
+- **Source Type:** Chat extraction anchored mainly in attached UMG artifacts
+- **Primary Domain:** foundation-runtime-bridge
+- **Core Value:** Connects sleeve-guide semantics, mode activation protocol, and bounded-agency runtime documents into one evidence line.
+- **Top Signals:**
+  - core UMG definitions remain stable
+  - explicit sleeve/mode activation protocol matters
+  - runtime direction is typed, policy-driven, and governance-locked
+  - runtime/safety materials are substantial but still draft/whitepaper status
+- **Key Risks:**
+  - runtime material not final
+  - worked example trace missing
+  - mode catalog not fully normalized into per-mode detailed NeoBlocks
+- **Likely Reuse Targets:**
+  - semantics alignment
+  - compiler task specification
+  - documentation revision
+  - skill/mode activation workflow
+  - PRD staging inputs

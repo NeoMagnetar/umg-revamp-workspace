@@ -1,0 +1,24 @@
+# BATCH-112 — Evidence Entry
+
+- **Batch ID:** BATCH-112
+- **Topic:** S2′ and CIR positioning
+- **Source Type:** Derived extraction / handoff note
+- **Disposition:** ACCEPT_AS_EVIDENCE
+- **Review Status:** REVIEWED
+- **Primary Domain:** cognitive taxonomy and pre-execution cognition framing
+- **High-Value Signal:**
+  - S2′ as constructed deliberation
+  - CIR as candidate representation/object language
+  - governance-upstream framing
+  - executor-bounded cognition
+  - documentation-grade diagram/glossary language
+- **Key Risks:**
+  - CIR-to-UMG mapping unresolved
+  - graph framing not reconciled with stacks/bundles/merge
+  - S1+ functionally described but not structurally fixed
+- **Likely Downstream Targets:**
+  - core definitions
+  - compiler positioning
+  - documentation glossary
+  - architecture overview
+- **Next Decision Target:** CIR relation to current UMG artifacts

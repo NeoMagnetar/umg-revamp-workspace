@@ -1,0 +1,21 @@
+# BATCH-005 — Evidence Entry
+- **Batch ID:** BATCH-005
+- **Title:** ChatGPT UMG playground + blueprint routing intake
+- **Disposition:** ACCEPT_AS_EVIDENCE
+- **Primary Domain:** ChatGPT pseudo-runtime architecture
+- **Source Kind:** chat extraction with compiler/runtime and project-guide references
+- **Core Signals:**
+  - UMG instantiated as a practical Sleeve Playground inside ChatGPT
+  - governance, sleeve, stack, NeoBlock, and blueprint separation
+  - compiler-grounded runtime sequence and tag-index logic
+  - project-as-sleeve workflow with dual representation forms
+- **Roadmap Tags:**
+  - PHASE_1_CORE_ALIGNMENT
+  - PHASE_2_COMPILER_IMPACT
+  - PHASE_3_DOCUMENTATION_IMPACT
+  - PHASE_4_SKILL_ALIGNMENT
+  - PHASE_5_PRD_AND_STAGING
+- **Duplicate Pressure:** high with existing sleeve/runtime/governance/materials
+- **Contradiction Watch:** medium
+- **Export Status:** Stage 1 pack exported
+- **Next Decision Target:** canonical-vs-operator representation boundary

@@ -1,0 +1,21 @@
+# BATCH-007 — Evidence Entry
+- **Batch ID:** BATCH-007
+- **Title:** Instruction topology + neutral base sleeve intake
+- **Disposition:** ACCEPT_AS_EVIDENCE
+- **Primary Domain:** instruction-topology-governance
+- **Source Kind:** chat extraction with project-file grounding
+- **Core Signals:**
+  - neutral governed base sleeve should replace design-trapped default state
+  - sleeves vs MOLT maps vs tags vs files vs memory need explicit non-overlapping roles
+  - project files are reference-only unless explicitly promoted
+  - missing anchor artifacts explain messy system checks more than missing theory does
+- **Roadmap Tags:**
+  - PHASE_1_CORE_ALIGNMENT
+  - PHASE_2_COMPILER_IMPACT
+  - PHASE_3_DOCUMENTATION_IMPACT
+  - PHASE_4_SKILL_ALIGNMENT
+  - PHASE_5_PRD_AND_STAGING
+- **Duplicate Pressure:** high with existing sleeve/governance/runtime documentation
+- **Contradiction Watch:** medium
+- **Export Status:** Stage 1 pack exported
+- **Next Decision Target:** neutral-base-sleeve contract lock

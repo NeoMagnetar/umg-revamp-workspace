@@ -1,0 +1,24 @@
+# BATCH-058 Evidence Entry
+
+- **Batch ID:** BATCH-058
+- **Title:** UMG runtime lexicon and glossary consolidation
+- **Disposition:** ACCEPT_AS_EVIDENCE
+- **Review Status:** REVIEWED
+- **Primary Domain:** terminology, runtime vocabulary, overlay/control lexicon
+- **Source Type:** user-provided structured summary
+- **Key Signals:**
+  - revised UMG definition candidate
+  - MOLT definition candidate
+  - Cyentcore vs CantoCore distinction
+  - CEL / VSS / Chaos Lens / Alignment Core terminology
+  - active stack priority and overlay relationships
+- **Main Risks:**
+  - origin-date claims unverified
+  - some subsystem distinctions more conversational than formally specified
+  - mythic / rhetorical phrasing may require normalization
+- **Likely Destinations:**
+  - glossary / terminology docs
+  - compiler/runtime spec work
+  - canonical mapping discussion
+- **Duplicate Pressure:** YES
+- **Contradiction Watch:** MEDIUM

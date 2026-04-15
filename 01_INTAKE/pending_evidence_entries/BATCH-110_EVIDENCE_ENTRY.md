@@ -1,0 +1,24 @@
+# BATCH-110 — Evidence Entry
+
+- **Batch ID:** BATCH-110
+- **Topic:** Academic-safe terminology and formalization
+- **Source type:** Derived extraction / handoff note
+- **Disposition:** ACCEPT_AS_EVIDENCE
+- **Primary domain:** documentation formalization and semantic translation
+- **Signal strength:** High for glossary/packaging discipline; medium for final canon adoption
+- **Key contributions:**
+  - UMG specifies cognition and does not execute behavior
+  - Governance supremacy preserved as a top-level invariant
+  - Deterministic resolution and auditability emphasized
+  - Academic-safe terminology treated as reversible mapping, not semantic replacement
+  - Canon / mappings / proof / open questions kept explicitly separate
+- **Main unresolved points:**
+  - MOLT ordering rigidity
+  - implicit merge versus explicit synthesis
+  - NeoStack authority semantics
+  - semantic weight of priority beyond conflict sites
+- **Recommended downstream targets:**
+  - core definitions update
+  - compiler terminology audit
+  - contradiction tracking
+  - agent-safe documentation packaging

@@ -1,0 +1,21 @@
+# BATCH-021 — Evidence Entry
+
+- **Batch ID:** BATCH-021
+- **Title:** Runtime hardening and v2/v3 staging
+- **Source Type:** chat extraction summary
+- **Disposition:** NOT_CANON / EXPORT_CANDIDATE
+- **Primary Domain:** runtime-hardening
+- **Key Value:** bridges live sleeve/runtime behavior with formal compiler and documentation design
+- **Top Signals:**
+  - runtime sleeve switching with governance continuity
+  - dual-layer immersion output block
+  - forensic viewer primary lens
+  - compiler hardening from expansion -> constraint compiler
+  - modular PDF/source architecture
+  - v2 hardening before v3 ontology expansion
+- **Main Risks:**
+  - mixed runtime-envelope and architecture layers in one source
+  - provisional artifact claims
+  - incomplete merge/dominance math
+  - naming drift across sleeve versions
+- **Likely Use:** compiler spec, sleeve docs, failure-mode docs, release staging

@@ -1,0 +1,21 @@
+# BATCH-063 Evidence Entry
+
+- **Batch ID:** BATCH-063
+- **Title:** UMG composable cognition doc stack
+- **Source Type:** user-supplied structured summary
+- **Status:** REVIEWED
+- **Disposition:** ACCEPT_AS_EVIDENCE
+- **Primary Domain:** documentation alignment and runtime/orchestration framing
+- **Key Signals:**
+  - UMG framed as composable cognition, not only modular prompting
+  - stable Primary / Merge / Blueprint separation
+  - recurring MOLT-centered runtime layer
+  - strong PoeUMG governance language
+  - major canon debt around MOLT meaning and taxonomy overlap
+- **Conflicts / Duplicates:**
+  - overlaps earlier batches on MOLT, runtime, and block roles
+  - materially sharpens contradiction around MOLT definition and taxonomy
+- **Recommended Use:**
+  - feed terminology reconciliation
+  - feed compiler/runtime spec drafting
+  - feed doc-stack normalization

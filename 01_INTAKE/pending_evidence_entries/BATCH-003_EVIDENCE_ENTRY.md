@@ -1,0 +1,19 @@
+# BATCH-003 — Evidence Entry
+- **Batch ID:** BATCH-003
+- **Short Topic:** GPT architecture mapping
+- **Disposition:** ACCEPT_AS_EVIDENCE
+- **Status:** REVIEWED
+- **Primary Domain:** sleeve and architecture profiling
+- **Source Type:** chat-level extraction summary
+- **Evidence Value:** high vocabulary and decomposition value; medium semantic authority
+- **Export Pressure:** documentation language, sleeve language, blocks/MOLT language
+- **Contradiction Watch:** medium
+- **Duplicate Pressure:** high
+- **Key Risks:** inferred architecture, exploratory stack lists, heuristic weights
+- **Likely Downstream Targets:**
+  - core definitions
+  - sleeves documentation
+  - blocks and MOLT documentation
+  - NeoBlocks / NeoStacks documentation
+  - skill/profile packaging
+- **Next Decision Target:** documentation-layer separation lock

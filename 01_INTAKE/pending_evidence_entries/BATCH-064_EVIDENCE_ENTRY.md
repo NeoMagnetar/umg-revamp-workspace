@@ -1,0 +1,21 @@
+# BATCH-064 Evidence Entry
+
+- **Batch ID:** BATCH-064
+- **Title:** UMG block-system map and runtime stack readiness
+- **Source Type:** user-supplied structured summary
+- **Status:** REVIEWED
+- **Disposition:** ACCEPT_AS_EVIDENCE
+- **Primary Domain:** block taxonomy, runtime mapping, and memory/instruction readiness
+- **Key Signals:**
+  - stable Primary / Merge / Blueprint separation
+  - strong MOLT taxonomy and active-stack example
+  - PoeUMG runtime sequence is clearer than many other surfaces
+  - self-adaptive loop adds pre-response / post-response mutation logic
+  - Cantocore and overlay semantics remain only partially grounded
+- **Conflicts / Duplicates:**
+  - overlaps earlier batches on MOLT, overlays, runtime logic, and documentation surfaces
+  - sharpens unresolved mapping between block roles, stack roles, and broader architecture shells
+- **Recommended Use:**
+  - feed taxonomy reconciliation
+  - feed runtime-order specification
+  - feed long-term-memory / instruction readiness planning

@@ -1,0 +1,26 @@
+# BATCH-069 — Evidence Entry
+
+- Batch ID: BATCH-069
+- Source File: `Pasted text.txt`
+- Source Type: distilled comparison notes
+- Review Status: REVIEWED
+- Disposition: EXPORT_CANDIDATE
+- Primary Domain: external positioning / documentation narrative
+- Summary: comparison-based notes framing UMG as a modular cognition framework with visible block-level composition, contrasted against a more productized AI platform.
+- UMG Value:
+  - reusable documentation language
+  - PRD positioning input
+  - skill-description framing
+  - weak but notable terminology preservation for Blueprint / Primary / Merge / Instruction Layers
+- Limits:
+  - not a raw transcript
+  - not a formal spec
+  - contains promotional / contrast-driven phrasing
+  - runtime implications are not contractual
+- Contradiction Watch: LOW
+- Duplicate Pressure: MEDIUM
+- Downstream Targets:
+  - documentation comparison section
+  - PRD market-positioning section
+  - skill-facing positioning language
+- Next Decision Target: framework vs product narrative boundary

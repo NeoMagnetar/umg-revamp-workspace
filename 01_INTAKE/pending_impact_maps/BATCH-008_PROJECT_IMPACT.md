@@ -1,0 +1,22 @@
+# BATCH-008 — Project Impact Map
+
+- **Primary Domain:** governance-runtime-boundary
+- **Roadmap Phases Touched:**
+  - PHASE_1_CORE_ALIGNMENT
+  - PHASE_2_COMPILER_IMPACT
+  - PHASE_3_DOCUMENTATION_IMPACT
+  - PHASE_4_SKILL_ALIGNMENT
+  - PHASE_5_PRD_AND_STAGING
+- **Contradiction Watch:** HIGH
+- **Duplicate Pressure:** HIGH
+- **Likely Downstream Targets:**
+  - governance precedence language
+  - hosted-vs-owned runtime control model
+  - restart/reset/resleeve semantics
+  - PRD control-layer specification
+  - skill/operator host-boundary notes
+- **Next Decision Target:** symbolic-governance-vs-runtime-control contract
+- **Impact Notes:**
+  - Clarifies that hosted-chat UMG remains interpretive unless backed by owned runtime.
+  - Prevents overclaiming memory, restart, or QR artifacts as real execution controls.
+  - Supports future migration of symbolic control objects into real runtime gate specs.

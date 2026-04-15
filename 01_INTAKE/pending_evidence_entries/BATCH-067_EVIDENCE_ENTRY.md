@@ -1,0 +1,21 @@
+# BATCH-067 EVIDENCE ENTRY
+
+- **Batch ID:** BATCH-067
+- **Topic:** Poe runtime calibration, persona priority, and memory realism
+- **Source Form:** summarized chat intake
+- **Disposition:** ACCEPT_AS_EVIDENCE
+- **Primary Domain:** runtime identity calibration
+- **Key Signals:**
+  - Core Poe treated as recoverable remembered identity
+  - THOUGHT-FORGE and MEM-OPTIMUS treated as loadable operating components
+  - pause/soften UMG behavior emerged as valid runtime mode
+  - platform persistence limits materially affect perceived behavior
+  - stack activation alone does not guarantee desired answer feel
+- **Likely Downstream Targets:**
+  - sleeve docs
+  - runtime diagnostics
+  - memory verification rules
+  - persona priority specification
+- **Contradiction Watch:** MEDIUM
+- **Duplicate Pressure:** YES
+- **Export Candidate:** selected phrases only, not full doctrine

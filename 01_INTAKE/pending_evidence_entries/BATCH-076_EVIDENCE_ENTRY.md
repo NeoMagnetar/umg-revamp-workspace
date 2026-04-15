@@ -1,0 +1,21 @@
+# BATCH-076_EVIDENCE_ENTRY
+
+- **Batch ID:** BATCH-076
+- **Short Topic:** Mag Guide Framework / NeoUMG continuity architecture
+- **Source Type:** Derived handoff summary
+- **Disposition:** ACCEPT_AS_EVIDENCE
+- **Primary Domain:** governance_continuity_architecture
+- **Roadmap Tags:** PHASE_1_CORE_ALIGNMENT; PHASE_2_COMPILER_IMPACT; PHASE_3_DOCUMENTATION_IMPACT; PHASE_4_SKILL_ALIGNMENT; PHASE_5_PRD_AND_STAGING
+- **Core Signal:** Governance-first, model-agnostic UMG architecture with sleeves, NeoStacks, invocation triggers, and structured output/runtime separation.
+- **Key Evidence Points:**
+  - MOLT as atomic unit
+  - governance block precedence
+  - invocation -> stack load -> output render flow
+  - sleeves and re-sleeving across models
+  - NB.* / SLV.* / NSTK.* naming system
+- **Primary Risks:**
+  - symbolic vs executable governance ambiguity
+  - unresolved merge-direction rules
+  - partial compiler formalization
+  - multi-agent alignment not stress-tested
+- **Recommended Use:** synthesis input for canon alignment, compiler audit, sleeve documentation, and continuity strategy

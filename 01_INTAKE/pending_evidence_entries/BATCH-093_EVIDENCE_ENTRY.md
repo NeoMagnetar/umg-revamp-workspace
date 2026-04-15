@@ -1,0 +1,25 @@
+# BATCH-093 Evidence Entry
+
+- **Batch ID:** BATCH-093
+- **Title:** GPT Integration Methods
+- **Source Type:** Derived extraction / handoff note
+- **Review Status:** REVIEWED
+- **Disposition:** ACCEPT_AS_EVIDENCE
+- **Primary Domain:** Runtime deployment model
+- **Roadmap Tags:** PHASE_1_CORE_ALIGNMENT, PHASE_2_COMPILER_IMPACT, PHASE_3_DOCUMENTATION_IMPACT, PHASE_4_SKILL_ALIGNMENT, PHASE_5_PRD_AND_STAGING
+- **Key Signals:**
+  - MOLT block taxonomy extended beyond core four
+  - JSON vaults as persistent externalized cognition
+  - Core-vault + project-vault loading model
+  - Trigger, merge, priority, and self-update logic
+  - CantoCore as compressed internal logic layer
+  - Project-based resleeving / instance deployment
+- **Provenance Caution:** Summary artifact, not raw transcript
+- **Contradiction Watch:** MEDIUM
+- **Duplicate Pressure:** YES
+- **Likely Downstream Targets:**
+  - canonical definitions review
+  - compiler task spec
+  - documentation placement guide
+  - PRD staging model
+- **Next Decision Target:** vault/instruction/persistence boundary

@@ -1,0 +1,27 @@
+# BATCH-108 — Evidence Entry
+
+- **Batch ID:** BATCH-108
+- **Topic:** UMG Builder graph semantics and runtime model
+- **Source type:** Derived extraction / handoff note
+- **Disposition:** ACCEPT_AS_EVIDENCE
+- **Primary domain:** Builder graph semantics, runtime interaction model, and stack behavior
+- **Key signal:**
+  - Primary must be the root.
+  - Nothing may sit above Primary.
+  - Vertical placement = stack / priority.
+  - Horizontal placement = overlay / merge.
+  - Builder should behave like a thought IDE / mind IDE, not a generic flowchart.
+- **High-value contributions:**
+  - manifest-driven block loading
+  - graph-canvas enforcement of UMG stack rules
+  - merge engine proposal
+  - snap logic proposal
+  - JSON-editor-as-first-class surface
+- **Contradiction watch:** HIGH
+- **Duplicate pressure:** YES
+- **Likely downstream targets:**
+  - builder spec
+  - graph runtime implementation
+  - compiler/snap logic
+  - documentation for Primary-root enforcement
+- **Next decision target:** Canonicalize builder interaction model and resolve `Deployment` in builder-facing taxonomy.

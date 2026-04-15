@@ -1,0 +1,25 @@
+# BATCH-113 — Evidence Entry
+
+- **Batch ID:** BATCH-113
+- **Topic:** UMG Info Archive schema and extraction workflow
+- **Source Type:** Derived extraction / handoff note
+- **Disposition:** ACCEPT_AS_EVIDENCE
+- **Review Status:** REVIEWED
+- **Primary Domain:** archival schema, transcript extraction, and conflict-detection workflow
+- **High-Value Signal:**
+  - typed archive object model
+  - deterministic ingestion pipeline
+  - explicit conflict records and severity logic
+  - transcript-to-structured-report workflow
+  - candidate extractor / validator / conflict / publisher staging
+- **Key Risks:**
+  - archive schema not ratified as canon
+  - assistant-proposed structure may exceed user-ratified doctrine
+  - automation boundary for conflict resolution unresolved
+  - runtime-style sleeve JSON not clearly canonized
+- **Likely Downstream Targets:**
+  - evidence-management infrastructure
+  - compiler-side extraction and conflict tooling
+  - documentation taxonomy
+  - archive/report generation workflow
+- **Next Decision Target:** whether the archive object model is tool-only, control-room infrastructure, or eventual canonical subsystem

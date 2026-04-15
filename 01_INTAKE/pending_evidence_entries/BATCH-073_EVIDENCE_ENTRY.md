@@ -1,0 +1,27 @@
+# BATCH-073 — Evidence Entry
+
+- **Batch ID:** BATCH-073
+- **Title:** Commando UMG Bot Plan
+- **Disposition:** ACCEPT_AS_EVIDENCE
+- **Review Status:** REVIEWED
+- **Source Type:** Derived handoff summary
+- **Primary Domain:** ui_runtime_composition
+- **Roadmap Tags:**
+  - PHASE_1_CORE_ALIGNMENT
+  - PHASE_2_COMPILER_IMPACT
+  - PHASE_3_DOCUMENTATION_IMPACT
+  - PHASE_4_SKILL_ALIGNMENT
+  - PHASE_5_PRD_AND_STAGING
+- **Core Signal:**
+  - UI composition of modular blocks
+  - loadout persistence
+  - export/deployment boundary
+  - partial MOLT role alignment
+- **Optional Extracts Created:**
+  - BATCH-073_COMPILER_EXTRACT.md
+  - BATCH-073_BLOCKS_MOLT_EXTRACT.md
+- **Contradiction Watch:** MEDIUM
+- **Duplicate Pressure:** YES
+- **Notes:**
+  - Useful for compiler-adjacent UI mapping and PRD staging
+  - Not strong enough to finalize role law or runtime contract

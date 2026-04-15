@@ -1,0 +1,21 @@
+# BATCH-006 — Evidence Entry
+- **Batch ID:** BATCH-006
+- **Title:** Authority resolution + runtime/compiler alignment intake
+- **Disposition:** ACCEPT_AS_EVIDENCE
+- **Primary Domain:** compiler/runtime alignment
+- **Source Kind:** chat extraction with project-file grounding
+- **Core Signals:**
+  - missing Authority Resolution phase between normalization and prompt assembly
+  - distinction between authority precedence, prompt order, and display order
+  - runtime path from tags/signals to condition evaluation and resolved state
+  - block/display metadata plan for compiler/editor usability
+- **Roadmap Tags:**
+  - PHASE_1_CORE_ALIGNMENT
+  - PHASE_2_COMPILER_IMPACT
+  - PHASE_3_DOCUMENTATION_IMPACT
+  - PHASE_4_SKILL_ALIGNMENT
+  - PHASE_5_PRD_AND_STAGING
+- **Duplicate Pressure:** high with existing compiler/runtime/governance materials
+- **Contradiction Watch:** medium
+- **Export Status:** Stage 1 pack exported
+- **Next Decision Target:** authority-resolution contract lock
